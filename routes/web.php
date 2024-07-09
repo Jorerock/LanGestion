@@ -13,6 +13,7 @@ Route::get('/guide', function () {
 
 Route::get('/', function () {
     return view('home');
+
 });
 
 
