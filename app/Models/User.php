@@ -45,3 +45,6 @@ class User extends Authenticatable
         ];
     }
 }
+
+
+//App\Models\User::factory(2)->create();
